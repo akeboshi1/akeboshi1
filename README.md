@@ -2,8 +2,6 @@
 
 ## Welcome to my Github:Akeboshi
 
-My name is **Guanxiaomin**
-
 ![Gxm2021's github stats](https://github-readme-stats.vercel.app/api?username=akeboshi1)
 
 <!--
