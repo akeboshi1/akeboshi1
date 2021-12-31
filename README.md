@@ -1,6 +1,6 @@
 # :wave:Hello
 
-##Hello everyone, Welcome to my Github😄 
+## Hello everyone, Welcome to my Github😄 
 - 🔭 I’m committed to developing interesting games and valuable tools
 
 ![Gxm2021's github stats](https://github-readme-stats.vercel.app/api?username=akeboshi1&show_icons=true&theme=radical&count_private=true)
