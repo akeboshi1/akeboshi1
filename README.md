@@ -17,6 +17,8 @@
 
 
 <!--
+![Galaxy](https://github.com/akeboshi1/akeboshi1/blob/main/galaxy.gif)
+
 **akeboshi1/akeboshi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
