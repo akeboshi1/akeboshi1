@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg"></code>
 
-
+[Galaxy](https://github.com/akeboshi1/akeboshi1/blob/main/galaxy.gif)
 <!--
 ![Galaxy](https://github.com/akeboshi1/akeboshi1/blob/main/galaxy.gif)
 
